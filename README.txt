@@ -44,3 +44,4 @@ Here are the minimal inputs you should use for your test cases. These test cases
 Scan these items in this order: ABCDABAA; Verify the total price is $32.40.
 Scan these items in this order: CCCCCCC; Verify the total price is $7.25.
 Scan these items in this order: ABCD; Verify the total price is $15.40.
+ 
